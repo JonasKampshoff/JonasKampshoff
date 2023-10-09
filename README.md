@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I am Jonas Kampshoff👋
+
+I'm currently a student of media informatics at the University of Applied Sciences Düsseldorf. (B.Sc. Medieninformatik an der Hochschule Düsseldorf)
+
 
 <!--
 **JonasKampshoff/JonasKampshoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
