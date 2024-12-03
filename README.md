@@ -34,11 +34,11 @@ I'm currently a student of media informatics at the University of Applied Scienc
 - I was then able to expand and professionalise my knowledge during my studies in media informatics at Düsseldorf University of Applied Sciences. By learning about conventions and
 better procedures, I was able to improve myself further. I was also able to learn how to complete projects as part of a team in numerous projects.
 
-- ### 2th Semester
+- ### 2st Semester
     - Game via Ausagenlogic with JavaFX ([project](https://github.com/HSD-Return42/Return42))
     - Image pixel sorter in Java for comparing different sorting algorithms (part of the Formal Models and Algorithms module)
     <!-- TODO Repo erstellen und verlinken --> 
-- ### 3th Semester
+- ### 3rd Semester
     - Puzzle app in Java with Android Studio ([project](https://github.com/HSD-Puzzle/Puzzle))
 - ### 4th Semester
     - Racing game in Unity for the ‘Cubes’ ([Projekt](https://github.com/jbg-1/hovercar-42?tab=readme-ov-file))
