@@ -46,5 +46,5 @@ better procedures, I was able to improve myself further. I was also able to lear
     <!-- TODO Repo erstellen und verlinken --> 
 - ### 5th Semester (current)
     - Mental health app in Flutter ([project](https://github.com/HSDContainerProjekt/MentalHealthApp))
-    - Media technology installation controlled via Touchdesigner (project)
+    - Media technology installation controlled via Touchdesigner ([project](https://github.com/JonasKampshoff/KineticLights_Unity_x_TouchDesigner))
     <!-- TODO Repo erstellen und verlinken --> 
