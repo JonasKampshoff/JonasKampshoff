@@ -35,7 +35,7 @@ I'm currently a student of media informatics at the University of Applied Scienc
 better procedures, I was able to improve myself further. I was also able to learn how to complete projects as part of a team in numerous projects.
 
 - ### 2st Semester
-    - Game via Ausagenlogic with JavaFX ([project](https://github.com/HSD-Return42/Return42))
+    - Game via propositional calculus with JavaFX ([project](https://github.com/HSD-Return42/Return42))
     - Image pixel sorter in Java for comparing different sorting algorithms (part of the Formal Models and Algorithms module)
     <!-- TODO Repo erstellen und verlinken --> 
 - ### 3rd Semester
