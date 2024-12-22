@@ -47,4 +47,4 @@ better procedures, I was able to improve myself further. I was also able to lear
 - ### 5th Semester (current)
     - Mental health app in Flutter ([project](https://github.com/HSDContainerProjekt/MentalHealthApp))
     - Media technology installation controlled via Touchdesigner ([project](https://github.com/JonasKampshoff/KineticLights_Unity_x_TouchDesigner))
-    <!-- TODO Repo erstellen und verlinken --> 
+    - A VR application in which the user runs endlessly on a treadmill and takes photos of the surroundings. ([Part of the VR module](https://github.com/JonasKampshoff/VREndlessPhotoWalk))
